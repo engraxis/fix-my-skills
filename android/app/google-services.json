@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583700833824",
+    "project_id": "fix-my-skills-2",
+    "storage_bucket": "fix-my-skills-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583700833824:android:f09e0099b8e37edad77e45",
+        "android_client_info": {
+          "package_name": "com.edisontesla.fcg.instructor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583700833824-rp17klvumsue7uuha8kj4kq47k9vh6v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZni7R9k4PORvv9zJT4zb6VOmGRL6khE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583700833824-rp17klvumsue7uuha8kj4kq47k9vh6v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
